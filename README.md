@@ -1,4 +1,4 @@
-## Pure HTML & CSS 3 banner-tag
+## Banner Tag
 A pure HTML &amp; CSS 3 Banner tag without any graphics
 
 ## Highlights & Benefits
